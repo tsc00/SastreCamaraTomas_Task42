@@ -2,7 +2,7 @@ package transport;
 /**
 Creacion de la Clase TestRoad almacenado en el package transport
 */
-import javax.swing.plaf.synth.SynthEditorPaneUI;
+
 /**
 Creacion de carreteras, vehiculos con carga maxima y añadirlos a la carretera 
 */
