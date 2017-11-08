@@ -1,15 +1,14 @@
 package transport;
 
 /**
- * Creacion de una clase y constructor llamado Vehicle, con un load y maxLoad privado y double
+ Creacion de una clase y constructor llamado Vehicle, con un load y maxLoad privado y double
  */
 public class Vehicle {
     private double load;
     private double maxLoad;
 
     /**
-     *
-     * Creacion del metodo Vehicle
+     Creacion del metodo Vehicle
      */
 
     public Vehicle (double maxLoad) {
@@ -35,7 +34,8 @@ public class Vehicle {
         }
     }
     /**
-     * Tomás Sastre Cámara
-     * ASIX2n
+     Tomás Sastre Cámara
+     ASIX 2n
+     IAW
      */
 }
